@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="MyStyleSheet.css">
+    <title>My Website</title>
+</head>
+<body>
+    <h1>Alejandro's Web Page</h1>
+    <h2>Some text you wish you put here</h2>
+
+    <img src="bellotte.jpg" width="400" alt="Bellotte image">
+
+    <p>
+<div class "row">
+<p class="shrt"> This is a demonstration of the fact that you can shorten the blocks that put into and it is just here to show you how to do it. I hope this helps and answers any question may have </p?  
+        This is where you would put your text. You can continue to type and see how far the text will go.
+    </p>
+
+    <p="shrt"> This how you put one block next to another block so it looks like
+
+    <h1>Cool Coffee Link</h1>
+
+    <h2>This is really good coffee and you should buy it</h2>
+
+    <img src="Coffee.jpg" alt="You should buy this coffee, it's so fire" width="400">
+
+    <a href="https://www.starbucks.com/">
+
+        <img src="coffee.jpg" alt="Starbucks coffee link" width="200">
+  
+
+    </a>
+</body>
+</html>
+ 
